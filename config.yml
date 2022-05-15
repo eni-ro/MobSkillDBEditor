@@ -1,0 +1,10 @@
+MobDB:
+- E:/ROEmu/rAthena/db/re/mob_db.yml
+- E:/ROEmu/rAthena/db/import/mob_db.yml
+MobSkillDB:
+- E:/ROEmu/rAthena/db/re/mob_skill_db.txt
+- C:/Users/Admin/Desktop/test/sampledb.txt
+- E:/ROEmu/rAthena/db/import/mob_skill_db.txt
+SkillDB:
+- E:/ROEmu/rAthena/db/re/skill_db.yml
+- E:/ROEmu/rAthena/db/import/skill_db.yml
